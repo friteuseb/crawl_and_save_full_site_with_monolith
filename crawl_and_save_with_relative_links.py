@@ -3,6 +3,12 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 
+# =========================================
+# Crawl and Save Full Site with Monolith
+# =========================================
+# Author: Cyril Wolfangel
+# =========================================
+
 def save_page(url, output_dir):
     filename = urlparse(url).path.replace('/', '_') + '.html'
     os.system(f"monolith {url} -o {os.path.join(output_dir, filename)}")
