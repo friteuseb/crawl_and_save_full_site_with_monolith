@@ -1,5 +1,9 @@
 # Crawl and Save Full Site with Monolith
 
+![GitHub forks](https://img.shields.io/github/forks/friteuseb/crawl_and_save_full_site_with_monolith?style=social)
+![GitHub stars](https://img.shields.io/github/stars/friteuseb/crawl_and_save_full_site_with_monolith?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/friteuseb/crawl_and_save_full_site_with_monolith?style=social)
+
 This Python script allows you to crawl a website, save its pages using Monolith, and adjust the links for local navigation. It is especially useful for backing up sites hosted on platforms like Squarespace, which can be challenging for traditional website scrapers.
 
 ## Prerequisites
@@ -38,7 +42,7 @@ This Python script allows you to crawl a website, save its pages using Monolith,
 
 ## Example
 
-When prompted, enter the URL of the site you want to crawl (e.g., `https://www.example-website.com`) and the number of pages to crawl (e.g., `0` for no limit).
+When prompted, enter the URL of the site you want to crawl (e.g., `https://www.reseau-travaux.fr`) and the number of pages to crawl (e.g., `0` for no limit).
 
 ## Putting the Backup Online
 
