@@ -30,7 +30,7 @@ This Python script allows you to crawl a website, save its pages using Monolith,
 
 ## Example
 
-When prompted, enter the URL of the site you want to crawl (e.g., `https://www.reseau-travaux.fr`) and the number of pages to crawl (e.g., `0` for no limit).
+When prompted, enter the URL of the site you want to crawl (e.g., `https://www.example-website.fr`) and the number of pages to crawl (e.g., `0` for no limit).
 
 ## Notes
 
